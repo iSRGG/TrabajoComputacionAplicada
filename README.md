@@ -1,7 +1,7 @@
-# TrabajoComputacionAplicada
+# Trabajo Computacion Aplicada
 Buenas profesor Raymi Vásquez, a continuación le dejo este repositorio con todos los proyectos realizados durante este semestre.
 
-# Trabajos Universidad
+# Trabajos Universidad Federico Santa Maria
 
 Este repositorio contiene los trabajos 1, 2 y 3 realizados para la asignatura [Nombre de la asignatura].
 
