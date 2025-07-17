@@ -1,65 +1,55 @@
 # Computación Aplicada — Trabajos del Semestre
 
 **Profesor:** Raymi Vásquez  
-**Alumnos:** -Manuel Molina
-            -Jorge Muñoz
-            -Ray Palomino
-            -Sergio Vergara 
-            
+**Alumno:** [Tu Nombre]  
 **Universidad Técnica Federico Santa María**
 
-Estimado profesor, a continuación le presento este repositorio que contiene todos los trabajos desarrollados durante el semestre para la asignatura *[Nombre de la asignatura]*.
+Estimado profesor, a continuación le presento este repositorio que contiene los cuatro trabajos desarrollados durante el semestre para la asignatura *Computacion Aplicada*.
 
 ---
 
-## Contenido del Repositorio
+## Acceso Directo a los Trabajos
 
-Este repositorio incluye los trabajos 1, 2 y 3, cada uno con su respectiva documentación, código fuente y dataset generado. Además, se incluye una guía de usuario para facilitar la reproducción de los proyectos.
-
-### Estructura del Repositorio
-
-- [**Trabajo 1**](#trabajo-1): Código fuente, informe y dataset generado.
-- [**Trabajo 2**](#trabajo-2): Código fuente, informe y dataset generado.
-- [**Trabajo 3**](#trabajo-3): Código fuente, informe y dataset generado.
-- [**Documentación**](#documentación): Guía de usuario general.
+- 🔗 [**Trabajo 1**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%201)
+- 🔗 [**Trabajo 2**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%202)
+- 🔗 [**Trabajo 3**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%203)
+- 🔗 [**Trabajo 4**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%204)
+- 📄 [**Guía de Usuario**](https://github.com/tu-usuario/trabajos-universidad/tree/main/docs)
 
 ---
 
-## Trabajo 1
+## Detalles por Trabajo
 
-**Ubicación:** `trabajo1/`
+### Trabajo 1
 
-- `codigo.ipynb`: Código implementado en Jupyter Notebook.
-- `informe.pdf`: Informe del desarrollo y resultados.
-- `resultado_dataset.csv`: Dataset final obtenido.
+**Carpeta:** [`trabajo1/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%201)
 
----
+- `codigo.ipynb`: Código en Jupyter Notebook con el informe integrado.
+- No se requiere un archivo PDF adicional.
 
-## Trabajo 2
+### Trabajo 2
 
-**Ubicación:** `trabajo2/`
+**Carpeta:** [`trabajo2/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%202)
 
-- `codigo.ipynb`: Código implementado en Jupyter Notebook.
-- `informe.pdf`: Informe del desarrollo y resultados.
-- `resultado_dataset.csv`: Dataset final obtenido.
+- `codigo.ipynb`: Código fuente.
+- `informe.pdf`: Documento de informe.
+- `resultado_dataset.csv`: Dataset generado.
 
----
+### Trabajo 3
 
-## Trabajo 3
+**Carpeta:** [`trabajo3/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%203)
 
-**Ubicación:** `trabajo3/`
+- `codigo.ipynb`: Código fuente.
+- `informe.pdf`: Documento de informe.
+- `resultado_dataset.csv`: Dataset generado.
 
-- `codigo.ipynb`: Código implementado en Jupyter Notebook.
-- `informe.pdf`: Informe del desarrollo y resultados.
-- `resultado_dataset.csv`: Dataset final obtenido.
+### Trabajo 4
 
----
+**Carpeta:** [`trabajo4/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%204)
 
-## Documentación
-
-**Ubicación:** `docs/`
-
-- `guia_usuario.md`: Guía con instrucciones para instalar dependencias y ejecutar los notebooks.
+- `codigo.ipynb`: Código fuente.
+- `informe.pdf`: Documento de informe.
+- `resultado_dataset.csv`: Dataset generado.
 
 ---
 
@@ -67,11 +57,11 @@ Este repositorio incluye los trabajos 1, 2 y 3, cada uno con su respectiva docum
 
 - Python 3.x  
 - Jupyter Notebook  
-- Bibliotecas utilizadas:
-  - `pandas`  
-  - `numpy`  
-  - `matplotlib`  
-  - *(agrega otras si es necesario)*
+- Bibliotecas necesarias:
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  
 
 ---
 
