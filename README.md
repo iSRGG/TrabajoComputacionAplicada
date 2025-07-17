@@ -1,7 +1,7 @@
 # Computación Aplicada — Trabajos del Semestre
 
 **Profesor:** Raymi Vásquez  
-**Alumno:** -Manuel Molina
+**Alumnos:** -Manuel Molina
             -Jorge Muñoz
             -Ray Palomino
             -Sergio Vergara 
