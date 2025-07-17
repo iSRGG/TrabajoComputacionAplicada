@@ -1,7 +1,11 @@
 # Computación Aplicada — Trabajos del Semestre
 
 **Profesor:** Raymi Vásquez  
-**Alumno:** [Tu Nombre]  
+**Alumno:** Manuel Molina
+            Jorge Muñoz
+            Ray Palomino
+            Sergio Vergara 
+            
 **Universidad Técnica Federico Santa María**
 
 Estimado profesor, a continuación le presento este repositorio que contiene todos los trabajos desarrollados durante el semestre para la asignatura *[Nombre de la asignatura]*.
