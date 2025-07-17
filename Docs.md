@@ -1,73 +1,45 @@
-# 📘 Guía de Usuario — Computación Aplicada
+# 📘 Guía de Usuario – Computación Aplicada
 
 **Universidad Técnica Federico Santa María**  
-**Asignatura:** Computación Aplicada  
-**Alumno:** [Tu Nombre Aquí]  
-**Profesor:** Raymi Vásquez  
-**Semestre:** [Año / Semestre]
+**Curso:** Computación Aplicada  
+**Repositorio del estudiante:** https://github.com/iSRGG/TrabajoComputacionAplicada
 
 ---
 
-Este repositorio contiene el desarrollo de los **cuatro trabajos realizados durante el semestre** en el curso *Computación Aplicada*. Se incluyen notebooks con código funcional, informes técnicos y datasets generados. A continuación, se presenta una guía detallada para explorar y ejecutar correctamente cada componente del repositorio.
+## 🧭 Propósito de esta Guía
+
+Este documento tiene como objetivo orientar al usuario en el uso correcto de los notebooks, informes y datasets disponibles en este repositorio. Está dirigido a profesores, ayudantes o compañeros que deseen **revisar, ejecutar o reutilizar los trabajos realizados durante el semestre**.
 
 ---
 
-## 🔗 Acceso Directo a los Trabajos
+## 📦 Contenido del Repositorio
 
-- 🧠 [**Trabajo 1 – CMAPSS**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%201)
-- ⚙️ [**Trabajo 2 – Chancador**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%202)
-- 🔥 [**Trabajo 3 – Reboiler**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%203)
-- 🧪 [**Trabajo 4 – Aceites**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%204)
+Este repositorio contiene cuatro carpetas principales, cada una correspondiente a un trabajo:
 
----
+- `Trabajo 1`: Predicción RUL – CMAPSS
+- `Trabajo 2`: Análisis de fallas en Chancador
+- `Trabajo 3`: Evaluación de eficiencia en Reboiler
+- `Trabajo 4`: Clasificación de calidad de aceites
 
-## 📁 Estructura y Detalles por Trabajo
+Cada carpeta contiene:
 
-### 📘 Trabajo 1: CMAPSS
-
-**Ruta:** [`Trabajo 1`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%201)  
-- `codigo.ipynb`: Contiene el desarrollo completo y análisis dentro del mismo notebook.  
-- **Informe integrado directamente** en el código. No requiere archivo PDF.
+- `codigo.ipynb`: Notebook ejecutable con el desarrollo.
+- `informe.pdf`: Análisis técnico (excepto en el Trabajo 1, donde está integrado).
+- `resultado_dataset.csv`: Datos procesados o generados (en T2, T3, T4).
 
 ---
 
-### 📘 Trabajo 2: Chancador
+## 💻 Requisitos del Sistema
 
-**Ruta:** [`Trabajo 2`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%202)  
-- `codigo.ipynb`: Script Jupyter.  
-- `informe.pdf`: Análisis y desarrollo técnico.  
-- `resultado_dataset.csv`: Dataset resultante del procesamiento.
+### 1. Software
 
----
+- **Python** 3.8 o superior
+- **Jupyter Notebook** o **JupyterLab**
+- (Opcional) **Git** para clonar el repositorio
 
-### 📘 Trabajo 3: Reboiler
+### 2. Librerías necesarias
 
-**Ruta:** [`Trabajo 3`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%203)  
-- `codigo.ipynb`: Implementación del modelo.  
-- `informe.pdf`: Documentación de resultados.  
-- `resultado_dataset.csv`: Archivo generado.
+Instálalas ejecutando:
 
----
-
-### 📘 Trabajo 4: Aceites
-
-**Ruta:** [`Trabajo 4`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%204)  
-- `codigo.ipynb`: Notebook final con desarrollo completo.  
-- `informe.pdf`: Informe detallado.  
-- `resultado_dataset.csv`: Exportación final de datos.
-
----
-
-## 🧰 Requisitos Técnicos
-
-### Lenguaje
-- Python 3.8 o superior
-
-### Herramientas necesarias
-- Jupyter Notebook o JupyterLab
-- Git (opcional, para clonar el repositorio)
-
-### Bibliotecas requeridas
-Instalar con:
 ```bash
-pip install pandas numpy matplotlib
+pip install pandas numpy matplotlib seaborn
