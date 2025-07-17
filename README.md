@@ -24,14 +24,14 @@ Estimado profesor, a continuación le presento este repositorio que contiene los
 
 ## Detalles por Trabajo
 
-### Trabajo 1
+### Trabajo 1 (CMAPSS)
 
 **Carpeta:** [`trabajo1/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%201)
 
 - `codigo.ipynb`: Código en Jupyter Notebook con el informe integrado.
 - No se requiere un archivo PDF adicional.
 
-### Trabajo 2
+### Trabajo 2 (Chancador)
 
 **Carpeta:** [`trabajo2/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%202)
 
@@ -39,7 +39,7 @@ Estimado profesor, a continuación le presento este repositorio que contiene los
 - `informe.pdf`: Documento de informe.
 - `resultado_dataset.csv`: Dataset generado.
 
-### Trabajo 3
+### Trabajo 3 (Rebolier)
 
 **Carpeta:** [`trabajo3/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%203)
 
@@ -47,7 +47,7 @@ Estimado profesor, a continuación le presento este repositorio que contiene los
 - `informe.pdf`: Documento de informe.
 - `resultado_dataset.csv`: Dataset generado.
 
-### Trabajo 4
+### Trabajo 4 (Aceites)
 
 **Carpeta:** [`trabajo4/`](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%204)
 
