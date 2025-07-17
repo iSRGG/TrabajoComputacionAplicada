@@ -1,4 +1,4 @@
-# 📘 Guía de Usuario – Computación Aplicada
+#  Guía de Usuario – Computación Aplicada
 
 **Universidad Técnica Federico Santa María**  
 **Curso:** Computación Aplicada  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🧭 Propósito de esta Guía
+##  Propósito de esta Guía
 
 Este documento tiene como objetivo orientar al usuario en el uso correcto de los notebooks, informes y datasets disponibles en este repositorio. Está dirigido a profesores, ayudantes o compañeros que deseen **revisar, ejecutar o reutilizar los trabajos realizados durante el semestre**.
 
 ---
 
-## 📦 Contenido del Repositorio
+##  Contenido del Repositorio
 
 Este repositorio contiene cuatro carpetas principales, cada una correspondiente a un trabajo:
 
@@ -29,7 +29,7 @@ Cada carpeta contiene:
 
 ---
 
-## 💻 Requisitos del Sistema
+##  Requisitos del Sistema
 
 ### 1. Software
 
