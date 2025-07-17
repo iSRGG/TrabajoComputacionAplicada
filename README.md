@@ -82,4 +82,4 @@ Estimado profesor, a continuación le presento este repositorio que contiene los
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/trabajos-universidad.git
+   git clone https://github.com/iSRGG/TrabajoComputacionAplicada
