@@ -69,7 +69,7 @@ Estimado profesor, a continuación le presento este repositorio que contiene los
 
 ---
 
-### ✅ Reemplaza:
+### Archivos Complementarios:
 
 - El enlace de Drive:
   ```text
