@@ -18,7 +18,7 @@ Estimado profesor, a continuación le presento este repositorio que contiene los
 - 🔗 [**Trabajo 2**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%202)
 - 🔗 [**Trabajo 3**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%203)
 - 🔗 [**Trabajo 4**](https://github.com/iSRGG/TrabajoComputacionAplicada/tree/main/Trabajo%204)
-- 📄 [**Guía de Usuario**](https://github.com/tu-usuario/trabajos-universidad/tree/main/docs)
+- 📄 [**Guía de Usuario**](https://github.com/iSRGG/TrabajoComputacionAplicada/blob/main/Docs.md)
 
 ---
 
