@@ -1,35 +1,78 @@
-# Trabajo Computacion Aplicada
-Buenas profesor Raymi Vásquez, a continuación le dejo este repositorio con todos los proyectos realizados durante este semestre.
+# Computación Aplicada — Trabajos del Semestre
 
-# Trabajos Universidad Federico Santa Maria
+**Profesor:** Raymi Vásquez  
+**Alumno:** [Tu Nombre]  
+**Universidad Técnica Federico Santa María**
 
-Este repositorio contiene los trabajos 1, 2 y 3 realizados para la asignatura [Nombre de la asignatura].
+Estimado profesor, a continuación le presento este repositorio que contiene todos los trabajos desarrollados durante el semestre para la asignatura *[Nombre de la asignatura]*.
 
-## Estructura
+---
 
-- **trabajo1/**: Contiene el código, informe y dataset resultante del trabajo 1.
-- **trabajo2/**: Contiene el código, informe y dataset resultante del trabajo 2.
-- **trabajo3/**: Contiene el código, informe y dataset resultante del trabajo 3.
-- **docs/**: Incluye la guía de usuario.
+## Contenido del Repositorio
 
-## Contenido por carpeta
+Este repositorio incluye los trabajos 1, 2 y 3, cada uno con su respectiva documentación, código fuente y dataset generado. Además, se incluye una guía de usuario para facilitar la reproducción de los proyectos.
 
-### Trabajo 1
-- `codigo.ipynb`: Código en Jupyter Notebook.
-- `informe.pdf`: Informe del trabajo.
-- `resultado_dataset.csv`: Dataset resultante.
+### Estructura del Repositorio
 
-(Se repite igual para los otros trabajos)
+- [**Trabajo 1**](#trabajo-1): Código fuente, informe y dataset generado.
+- [**Trabajo 2**](#trabajo-2): Código fuente, informe y dataset generado.
+- [**Trabajo 3**](#trabajo-3): Código fuente, informe y dataset generado.
+- [**Documentación**](#documentación): Guía de usuario general.
 
-### Documentación
-- `docs/guia_usuario.md`: Guía de usuario con instrucciones para reproducir los trabajos.
+---
 
-## Requisitos
-- Python 3.x
-- Jupyter Notebook
-- Bibliotecas: (Especificar las necesarias, por ejemplo: pandas, numpy, matplotlib)
+## Trabajo 1
 
-## Instrucciones de ejecución
-1. Clona el repositorio:
+**Ubicación:** `trabajo1/`
+
+- `codigo.ipynb`: Código implementado en Jupyter Notebook.
+- `informe.pdf`: Informe del desarrollo y resultados.
+- `resultado_dataset.csv`: Dataset final obtenido.
+
+---
+
+## Trabajo 2
+
+**Ubicación:** `trabajo2/`
+
+- `codigo.ipynb`: Código implementado en Jupyter Notebook.
+- `informe.pdf`: Informe del desarrollo y resultados.
+- `resultado_dataset.csv`: Dataset final obtenido.
+
+---
+
+## Trabajo 3
+
+**Ubicación:** `trabajo3/`
+
+- `codigo.ipynb`: Código implementado en Jupyter Notebook.
+- `informe.pdf`: Informe del desarrollo y resultados.
+- `resultado_dataset.csv`: Dataset final obtenido.
+
+---
+
+## Documentación
+
+**Ubicación:** `docs/`
+
+- `guia_usuario.md`: Guía con instrucciones para instalar dependencias y ejecutar los notebooks.
+
+---
+
+## Requisitos Técnicos
+
+- Python 3.x  
+- Jupyter Notebook  
+- Bibliotecas utilizadas:
+  - `pandas`  
+  - `numpy`  
+  - `matplotlib`  
+  - *(agrega otras si es necesario)*
+
+---
+
+## Instrucciones de Ejecución
+
+1. Clonar este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/trabajos-universidad.git
