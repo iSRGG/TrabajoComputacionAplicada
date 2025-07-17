@@ -1,10 +1,10 @@
 # Computación Aplicada — Trabajos del Semestre
 
 **Profesor:** Raymi Vásquez  
-**Alumno:** Manuel Molina
-            Jorge Muñoz
-            Ray Palomino
-            Sergio Vergara 
+**Alumno:** -Manuel Molina
+            -Jorge Muñoz
+            -Ray Palomino
+            -Sergio Vergara 
             
 **Universidad Técnica Federico Santa María**
 
